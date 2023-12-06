@@ -25,6 +25,7 @@ Accepts as input:
 Output:
 * User clicks through to the destination link
 * User reports suspected phishing
+* User returns to calling URL
 
 ## Status
 
